@@ -35,8 +35,8 @@ function onHomeClick() {
     console.log("---")
     document.getElementById("home").scrollIntoView();
 }
-function onTeamClick() {
-    document.getElementById("team5").scrollIntoView();
+function onBreedClick() {
+    window.open("https://breed.cheekychimps.club/app/");
 }
 function onWhiteClick() {
     window.open("https://cheekychimpsclub.gitbook.io/");
@@ -91,7 +91,7 @@ class Header extends React.Component {
                                 <Nav style={{ borderRadius: 0, padding: "0 20px 0 20px", fontWeight: 900 }}>
                                     <Nav.Link className="bruh nav-link-btn" onClick={onHomeClick} >Home</Nav.Link>
                                     <Nav.Link className="bruh nav-link-btn" onClick={onShopClick} >Roadmap</Nav.Link>
-                                    <Nav.Link className="bruh nav-link-btn" onClick={onTeamClick} >Team</Nav.Link>
+                                    <Nav.Link className="bruh nav-link-btn" onClick={onBreedClick} >Breed</Nav.Link>
                                     {/* <Nav.Link className="bruh nav-link-btn" onClick={onOpenSeaClick} >OpenSea</Nav.Link> */}
                                     <Nav.Link className="bruh nav-link-btn" onClick={onWhiteClick} >Whitepaper</Nav.Link>
 

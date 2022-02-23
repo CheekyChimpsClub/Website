@@ -43,27 +43,29 @@ class About extends React.Component {
                     fontSize: 16
                   }}
                 >
-                  A collection of 11,111 handcrafted 3D NFT’s built on the Ethereum blockchain, providing holders maximum benefit and utility in a multi-platform ecosystem.
+                  A collection of 11,111 handcrafted 3D Cheeky Chimp NFT’s built on the Ethereum blockchain, providing holders maximum benefit and utility in a multi-platform ecosystem.
                   <p style={{paddingTop: 0}}> </p>
                   <text style={{ fontSize: 22, color: "red", fontFamily: "newerthing", lineHeight: 0 }}>
-                    World 1: Web-based Casino
+                  Web-based Casino | Casino Bull
                   </text><br />
-                  Earn monthly revenue share from our web-based casino and
-                  experience exclusive member-only games and events.
+                  Earn monthly revenue share benefits from our web-based casino - Casino Bull. Experience exclusive member-only poker tournaments, games & events and become part of The House.
                   <p style={{paddingTop: 0}}> </p>
                   <text style={{ fontSize: 22, color: "red", fontFamily: "newerthing", lineHeight: 0 }}>
-                  World 2: Play to Earn 
+                  Cheeky Chimps Love Lab
                   </text><br />
-                  The Cheeky Chimps’ beloved casino has been taken over by the Mob and now it’s time to fight back.
+                  Stake two of your Cheeky Chimps and have the ability to breed a third Cheeky Chimp or simply accumulate in-game $JPOT. Transfer your in-game $JPOT into actual tokens to be used in our online Casino.
                   <p style={{paddingTop: 0}}> </p>
-Take part in an epic team based “Play to Earn” reconnaissance mission. Stake your chimp to yield $JPOT, build your own army and collect all the battle wear needed to win the war against the notorious mobsters. 
-<p style={{paddingTop: 0}}> </p>
+                  <text style={{ fontSize: 22, color: "red", fontFamily: "newerthing", lineHeight: 0 }}>
+                  Play to Earn (P2E) 
+                  </text><br />
+                  Take part in an epic team-based “Play to Earn” reconnaissance mission. Stake your chimp to yield $JPOT, build your own army and collect all the battle wear needed to win the war against the notorious mobsters. 
+                  <p style={{paddingTop: 0}}> </p>
                 <button className="sickButton" onClick={onButtonClick}>HOW TO PLAY</button>
                 <p style={{paddingTop: 0}}> </p>
                   <text style={{ fontSize: 22, color: "red", fontFamily: "newerthing", lineHeight: 0 }}>
-                  World 3: Metaverse ‘The Club’ 
+                  Metaverse | The Club 
                   </text><br />
-                  NFT holders also gain access to “The Club”, a purpose-built and exclusive establishment in the Somnium Space metaverse. <br/>Come have a bet, play arcades or join our weekly VR meetups, <br/>hosted only by the elite.
+                  Cheeky Chimp holders will gain access to “The Club”, a purpose-built and exclusive establishment in the Somnium Space metaverse. Have a bet, play arcades or join our weekly VR meetups, featuring only the elite. 
                 </text>
 
                 
